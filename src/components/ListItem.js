@@ -29,7 +29,7 @@ class ListItem extends React.Component{
     return (
       <div>
         <List
-          size="small"
+          size="large"
           header={<div>Header</div>}
           footer={<div>Footer</div>}
           bordered
