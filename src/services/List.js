@@ -6,7 +6,6 @@ export function query() {
   });
 }
 export function post(name){
-  console.log(name)
   return request('/list',{
     method: "POST",
     headers : {"Content-Type": "application/json"},

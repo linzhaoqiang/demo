@@ -8,7 +8,6 @@ const Add = ({ onAdd, onAsyncAdd, onChange, input }) => {
   // function add (){
   //   this
   // }
-  const InputGroup = Input.Group
   return (
     <div>
       <Input
